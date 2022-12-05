@@ -1,2 +1,2 @@
 # jeu-snake
-Jeu du Snake
+Ce jeu a été fait en suivant une formation sur UDEMY afin de mettre en pratique JavaScript
